@@ -1,0 +1,3 @@
+﻿  PR12.4.cpp
+D:\VS\VS code\PR12.4\PR12.4.cpp(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PR12.4.vcxproj -> D:\VS\VS code\PR12.4\x64\Debug\PR12.4.exe
